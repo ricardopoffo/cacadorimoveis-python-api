@@ -7,7 +7,7 @@
 - Create and activate
 ```
 python -m venv .venv
-source myenv/bin/activate
+source .venv/bin/activate
 ``` 
 
 ### Install dependencies
